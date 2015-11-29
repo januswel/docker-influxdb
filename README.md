@@ -1,7 +1,5 @@
-docker-influxdb
-===============
-
 InfluxDB container
+==================
 
 For default use, docker-compose.yml is like below.
 
